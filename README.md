@@ -8,23 +8,23 @@ The website is not a traditional portfolio, marketing agency website, or AI tool
 
 It is designed to position Farzam Gholizadeh as a:
 
-- Growth Strategist
-- Growth System Designer
-- Business-Oriented Thinker
+1. Growth Strategist
+2. Growth System Designer
+3. Business-Oriented Thinker
 
 The platform combines:
 
-- Strategic positioning
-- Growth system methodology
-- Thought leadership
-- Courses and webinars
-- Lead magnets
-- User registration
-- Dashboard experience
-- Consulting conversion
-- n8n automation
-- SEO architecture
-- Premium WordPress and Elementor implementation
+1. Strategic positioning
+2. Growth system methodology
+3. Thought leadership
+4. Courses and webinars
+5. Lead magnets
+6. User registration
+7. Dashboard experience
+8. Consulting conversion
+9. n8n automation
+10. SEO architecture
+11. Premium WordPress and Elementor implementation
 
 Core positioning statement:
 
@@ -38,18 +38,21 @@ This project is a documentation and implementation repository for building Farza
 
 It contains:
 
-- Website strategy
-- Sitemap
-- User flows
-- SEO architecture
-- Design system
-- WordPress stack
-- Elementor page blueprints
-- Header and footer structure
-- Global CSS direction
-- Premium motion direction
-- n8n automation architecture
-- Implementation roadmap
+1. Website strategy
+2. Sitemap
+3. User flows
+4. SEO architecture
+5. Design system
+6. WordPress stack
+7. Elementor page blueprints
+8. Header and footer structure
+9. Global CSS direction
+10. Premium motion direction
+11. n8n automation architecture
+12. Copywriting rules
+13. Implementation roadmap
+14. WordPress and Elementor task list
+15. Agent instructions
 
 ---
 
@@ -57,14 +60,57 @@ It contains:
 
 This project should not be developed as:
 
-- A generic freelancer website
-- A traditional marketing agency website
-- A social media manager portfolio
-- An AI automation landing page
-- A template-based personal website
-- A noisy startup-style website
+1. A generic freelancer website
+2. A traditional marketing agency website
+3. A social media manager portfolio
+4. An AI automation landing page
+5. A template-based personal website
+6. A noisy startup-style website
 
 Every design, copy, page, CTA, and automation should reinforce the Growth System positioning.
+
+---
+
+## Core Brand Positioning
+
+Farzam.nl must position Farzam as:
+
+1. Growth Strategist
+2. Growth System Designer
+3. Business-Oriented Thinker
+
+The website must not position him as:
+
+1. Traditional marketer
+2. Freelance marketer
+3. Social media manager
+4. AI tool operator
+5. Generic agency owner
+6. Template-based personal brand
+
+Marketing, content, AI, automation, websites, and campaigns are tools inside the Growth System.
+
+They are not the identity of the brand.
+
+---
+
+## Growth System Definition
+
+A Growth System combines:
+
+1. Business understanding
+2. Brand positioning
+3. Customer journey design
+4. Marketing execution
+5. Content systems
+6. AI integration when useful
+7. Automation
+8. Scalable processes
+9. Continuous improvement
+
+The main idea:
+
+Growth becomes clearer when the system behind it becomes clearer.
 
 ---
 
@@ -120,15 +166,19 @@ The website should convert users toward:
 
 Recommended stack:
 
-- WordPress
-- Elementor Pro
-- Yoast SEO
-- n8n
-- Membership plugin
-- LMS plugin later
-- Booking tool
-- Newsletter / CRM integration
-- WooCommerce if needed later
+1. WordPress
+2. Elementor Pro
+3. Yoast SEO
+4. n8n
+5. Membership plugin
+6. LMS plugin later
+7. Booking tool
+8. Newsletter and CRM integration
+9. WooCommerce if needed later
+
+This repository is primarily a planning, documentation, and implementation guide for a WordPress and Elementor website.
+
+Do not assume a custom-coded React website unless explicitly requested.
 
 ---
 
@@ -136,53 +186,108 @@ Recommended stack:
 
 ### Strategy and Structure
 
-- `PROJECT_BRIEF.md`
-- `docs/SITEMAP.md`
-- `docs/USER_FLOWS.md`
-- `docs/IMPLEMENTATION_ROADMAP.md`
+1. `PROJECT_BRIEF.md`
+2. `docs/SITEMAP.md`
+3. `docs/USER_FLOWS.md`
+4. `docs/IMPLEMENTATION_ROADMAP.md`
 
 ### SEO
 
-- `seo/SEO_ARCHITECTURE.md`
+1. `seo/SEO_ARCHITECTURE.md`
 
 ### Design System
 
-- `design-system/DESIGN_SYSTEM.md`
+1. `design-system/DESIGN_SYSTEM.md`
+
+### Content and Copywriting
+
+1. `content/COPYWRITING_RULES.md`
 
 ### WordPress
 
-- `wordpress/WORDPRESS_STACK.md`
+1. `wordpress/WORDPRESS_STACK.md`
 
 ### Automation
 
-- `n8n/AUTOMATION_ARCHITECTURE.md`
+1. `n8n/AUTOMATION_ARCHITECTURE.md`
 
 ### Elementor Implementation
 
-- `elementor/ELEMENTOR_IMPLEMENTATION_GUIDE.md`
+1. `elementor/ELEMENTOR_IMPLEMENTATION_GUIDE.md`
 
 ### Elementor Page Blueprints
 
-- `elementor/page-blueprints/HOME.md`
-- `elementor/page-blueprints/GROWTH_SYSTEMS.md`
-- `elementor/page-blueprints/MODULES.md`
-- `elementor/page-blueprints/WORK.md`
-- `elementor/page-blueprints/BLOG.md`
-- `elementor/page-blueprints/COURSES.md`
-- `elementor/page-blueprints/STUDIO.md`
-- `elementor/page-blueprints/ABOUT.md`
-- `elementor/page-blueprints/CONTACT.md`
-- `elementor/page-blueprints/DASHBOARD.md`
+1. `elementor/page-blueprints/HOME.md`
+2. `elementor/page-blueprints/GROWTH_SYSTEMS.md`
+3. `elementor/page-blueprints/MODULES.md`
+4. `elementor/page-blueprints/WORK.md`
+5. `elementor/page-blueprints/BLOG.md`
+6. `elementor/page-blueprints/COURSES.md`
+7. `elementor/page-blueprints/STUDIO.md`
+8. `elementor/page-blueprints/ABOUT.md`
+9. `elementor/page-blueprints/CONTACT.md`
+10. `elementor/page-blueprints/DASHBOARD.md`
 
 ### Elementor Components
 
-- `elementor/components/HEADER_NAVIGATION.md`
-- `elementor/components/FOOTER.md`
+1. `elementor/components/HEADER_NAVIGATION.md`
+2. `elementor/components/FOOTER.md`
 
 ### Styling and Motion
 
-- `elementor/custom-css/FARZAM_GLOBAL_STYLE.md`
-- `elementor/custom-js/FARZAM_PREMIUM_MOTION.md`
+1. `elementor/custom-css/FARZAM_GLOBAL_STYLE.md`
+2. `elementor/custom-js/FARZAM_PREMIUM_MOTION.md`
+
+### Build Tasks
+
+1. `tasks/WORDPRESS_ELEMENTOR_BUILD_TASKS.md`
+
+### Agent Instructions
+
+1. `AGENTS.md`
+
+---
+
+## Copywriting Rules
+
+All public website copy must follow the rules in:
+
+`content/COPYWRITING_RULES.md`
+
+Main writing rules:
+
+1. Do not use dashes in public website copy.
+2. Do not use AI-sounding language.
+3. All text must feel human, natural, professional, and premium.
+4. Avoid robotic sentence structures.
+5. Avoid generic AI phrases.
+6. Avoid over-polished artificial wording.
+7. Write like a strategic human consultant.
+8. Keep the tone clear, calm, executive, and trustworthy.
+
+This rule applies to:
+
+1. Page copy
+2. Headlines
+3. Subheadlines
+4. CTAs
+5. Blog content
+6. Course descriptions
+7. Form text
+8. Dashboard messages
+9. Email copy
+10. Newsletter text
+11. Microcopy
+12. SEO descriptions
+13. Button labels
+14. Error messages
+15. Confirmation messages
+
+Important clarification:
+
+The no-dash rule applies to public website copy and user-facing writing.
+
+Markdown documentation files may use normal Markdown syntax when needed for structure, lists, file paths, and technical documentation.
 
 ---
 
@@ -211,6 +316,42 @@ Build in this order:
 
 ---
 
+## MVP Scope
+
+For MVP, focus on:
+
+1. Home
+2. Growth Systems
+3. Modules
+4. Contact
+5. Blog structure
+6. Header
+7. Footer
+8. Basic newsletter form
+9. Growth Diagnosis form
+10. Strategy Call CTA
+
+Dashboard, courses, full automation, and advanced membership can be Phase 2.
+
+---
+
+## Phase 2 Scope
+
+After MVP:
+
+1. Courses
+2. Webinars
+3. Dashboard
+4. Account system
+5. Saved resources
+6. Member-only offers
+7. n8n CRM workflows
+8. Course-to-consulting automation
+9. Advanced SEO blog system
+10. YouTube and Skool integration
+
+---
+
 ## Design Direction
 
 The website should feel like:
@@ -219,24 +360,24 @@ Apple + McKinsey + Premium SaaS + Independent Growth Strategy Consultant
 
 The design should be:
 
-- Premium
-- Minimal
-- Executive
-- Spacious
-- Calm
-- Strategic
-- Human
-- Trustworthy
-- System-oriented
+1. Premium
+2. Minimal
+3. Executive
+4. Spacious
+5. Calm
+6. Strategic
+7. Human
+8. Trustworthy
+9. System-oriented
 
 Avoid:
 
-- Heavy gradients
-- Generic stock images
-- Loud AI visuals
-- Overdesigned animations
-- Startup cliché visuals
-- Agency-style clutter
+1. Heavy gradients
+2. Generic stock images
+3. Loud AI visuals
+4. Overdesigned animations
+5. Startup cliché visuals
+6. Agency-style clutter
 
 ---
 
@@ -244,22 +385,26 @@ Avoid:
 
 The copy should be:
 
-- Human
-- Strategic
-- Clear
-- Confident
-- Premium
-- Practical
-- Business-oriented
+1. Human
+2. Strategic
+3. Clear
+4. Confident
+5. Premium
+6. Practical
+7. Business-oriented
 
 Avoid:
 
-- Robotic AI language
-- Empty marketing slogans
-- Overhyped AI wording
-- Generic service descriptions
-- Social media manager positioning
-- Freelancer-style copy
+1. Robotic AI language
+2. Empty marketing slogans
+3. Overhyped AI wording
+4. Generic service descriptions
+5. Social media manager positioning
+6. Freelancer-style copy
+
+Before writing or editing any public website copy, read:
+
+`content/COPYWRITING_RULES.md`
 
 ---
 
@@ -274,16 +419,18 @@ SEO is the architecture behind the content system.
 
 Each page should include:
 
-- One H1
-- Clear heading hierarchy
-- SEO title
-- Meta description
-- Internal links
-- Clear keyword theme
-- Strong page intent
-- No keyword stuffing
+1. One H1
+2. Clear heading hierarchy
+3. SEO title
+4. Meta description
+5. Internal links
+6. Clear keyword theme
+7. Strong page intent
+8. No keyword stuffing
 
 Dashboard, login, register, and account pages should be noindex.
+
+Blog posts should be SEO structured.
 
 ---
 
@@ -293,19 +440,69 @@ n8n should support the business system behind the website.
 
 Automation should help with:
 
-- Newsletter subscription
-- Lead segmentation
-- Contact form routing
-- Growth Diagnosis processing
-- Strategy call booking follow-up
-- Course registration
-- Webinar registration
-- Resource download tracking
-- Dashboard activity
-- CRM updates
-- Email follow-up sequences
+1. Newsletter subscription
+2. Lead segmentation
+3. Contact form routing
+4. Growth Diagnosis processing
+5. Strategy call booking follow-up
+6. Course registration
+7. Webinar registration
+8. Resource download tracking
+9. Dashboard activity
+10. CRM updates
+11. Email follow-up sequences
 
 Automation should not make the brand feel robotic.
+
+---
+
+## Header Direction
+
+The top header must remain minimal.
+
+Visible items:
+
+1. Logo
+2. Hamburger Menu
+3. Register / Sign In
+4. Book a Strategy Call
+
+All main navigation links should sit inside the hamburger menu.
+
+Do not create a crowded top navigation bar.
+
+---
+
+## Footer Direction
+
+The footer should support:
+
+1. Brand positioning
+2. Internal linking
+3. SEO
+4. Newsletter signup
+5. Contact CTA
+6. Trust
+7. Legal links
+
+Footer should remain clean, structured, premium, and easy to scan.
+
+---
+
+## Quality Standards
+
+Before building, editing, or publishing anything, check whether the change supports:
+
+1. Growth System positioning
+2. Premium visual identity
+3. Clear user journey
+4. Strategic credibility
+5. SEO structure
+6. Conversion logic
+7. Human tone
+8. Clean Elementor implementation
+
+If a proposed change makes the website feel generic, noisy, robotic, cheap, or agency-like, do not implement it.
 
 ---
 
