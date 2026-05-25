@@ -242,6 +242,10 @@ Important files:
 
 1. `tasks/WORDPRESS_ELEMENTOR_BUILD_TASKS.md`
 
+### Content Rules
+
+1. `content/COPYWRITING_RULES.md`
+
 ---
 
 ## Main Website Pages
@@ -316,6 +320,10 @@ Visitor
 → Complete Growth Diagnosis  
 → Book a Strategy Call  
 → Become a consulting lead or client
+
+Before writing or editing any public website copy, read:
+
+`content/COPYWRITING_RULES.md`
 
 ---
 
@@ -574,10 +582,13 @@ When working in this repository:
 6. Read `seo/SEO_ARCHITECTURE.md` before SEO decisions.
 7. Read `n8n/AUTOMATION_ARCHITECTURE.md` before automation decisions.
 8. Read `tasks/WORDPRESS_ELEMENTOR_BUILD_TASKS.md` before execution planning.
+9. Read `content/COPYWRITING_RULES.md` before writing or editing any public website copy.
 
 Do not invent a new direction unless explicitly instructed.
 
 Do not replace the Growth System positioning with generic marketing language.
+
+Do not publish public website copy that uses dashes, sounds robotic, feels AI-generated, or weakens Farzam’s premium strategic positioning.
 
 ---
 
